@@ -113,6 +113,7 @@ let product = [
 ]
 
 let product_list = document.querySelector('#latest-products')
+let best_product_list = document.querySelector('#best-products')
 
 product.forEach(e => {
     let prod = `
@@ -144,5 +145,5 @@ product.forEach(e => {
 </div>
     `
 product_list.insertAdjacentHTML("beforeend", prod)
-
+best_product_list.insertAdjacentHTML("afterbegin", prod)
 })

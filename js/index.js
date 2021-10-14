@@ -36,13 +36,26 @@ document.querySelector('.slide-prev').addEventListener('click', () => {
     showSlide()
 })
 
+// slide controller
+
+document.querySelector('.slide-next').addEventListener('click', () => {
+    nextSlide()
+    showSlide()
+})
+
+document.querySelector('.slide-prev').addEventListener('click', () => {
+    prevSlide()
+    showSlide()
+})
+
+
 showSlide()
 
-setInterval(() => {
-    if (!slide_play) return
-   nextSlide()
-    showSlide()
- }, 3000);
+// setInterval(() => {
+//    if (!slide_play) return
+//   nextSlide()
+//    showSlide()
+// }, 3000);
 
 
 

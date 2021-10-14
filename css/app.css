@@ -336,3 +336,38 @@ position: relative;
     background-color: var(--btn-color);
     color: var(--btn-bg)
 }
+
+.slide-controller {
+     position: absolute;
+     top: 50%;
+     transform: translate(-50%);
+     outline: 0;
+     border: 0;
+     border-radius: 50%;
+     font-size: 25px;
+     display: flex;
+     align-items: center;
+     padding: 10px;
+     transition:  all 0.3s cubic-bezier(0.77, 0, 0.175, 1);     
+}
+
+.slide-controller:hover {
+    background-color: var(--btn-bg);
+    color: var(--btn-color);
+}
+
+.slide-next {
+    right: -80px;
+}
+
+.slide-prev {
+    left: -80px;
+}
+
+.slider:hover .slide-next {
+right: 40px;
+}
+
+.slider:hover .slide-prev {
+left: 40px;
+}

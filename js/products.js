@@ -1,42 +1,49 @@
 let products = [
     {
         name: 'JBL E55BT KEY BLACK',
-        image1: '',
-        image2: '',
+        image1: './images/1.png',
+        image2: './images/13.png',
         old_price: '400',
         curr_price: '300'
     },
     {
         name: 'JBL JR 310BT',
-        image1: '',
-        image2: '',
+        image1: './images/21.png',
+        image2: './images/22.png',
         old_price: '400',
         curr_price: '300'
     },
     {
         name: 'JBL TUNE 750BTNC',
-        image1: '',
-        image2: '',
+        image1: './images/41.png',
+        image2: './images/42.png',
         old_price: '400',
         curr_price: '300'
     },
     {
         name: 'JBL Horizon',
-        image1: '',
-        image2: '',
+        image1: './images/81.png',
+        image2: './images/82.webp',
         old_price: '400',
         curr_price: '300'
     },
     {
         name: 'JBL Tune 220TWS',
-        image1: '',
-        image2: '',
+        image1: './images/91.png',
+        image2: './images/92.png',
         old_price: '400',
         curr_price: '300'
     },
     {
         name: 'UA Project Rock',
-        image1: '',
+        image1: './images/111.png',
+        image2: './images/112.webp',
+        old_price: '400',
+        curr_price: '300'
+    },
+    {
+        name: 'JBL Endurance SPRINT',
+        image1: './images/100.webp',
         image2: '',
         old_price: '400',
         curr_price: '300'

@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\ConsoleApp2\ASM1\obj\Debug\ASM1.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\ConsoleApp2\ASM1\obj\Debug\ASM1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ConsoleApp2\ASM1\bin\Debug\ASM1.exe.config
+C:\Users\Acer\source\repos\ConsoleApp2\ASM1\bin\Debug\ASM1.exe
+C:\Users\Acer\source\repos\ConsoleApp2\ASM1\bin\Debug\ASM1.pdb
+C:\Users\Acer\source\repos\ConsoleApp2\ASM1\obj\Debug\ASM1.exe
+C:\Users\Acer\source\repos\ConsoleApp2\ASM1\obj\Debug\ASM1.pdb

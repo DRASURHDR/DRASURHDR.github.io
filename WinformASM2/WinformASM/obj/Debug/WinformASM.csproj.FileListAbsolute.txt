@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\WinformASM\WinformASM\bin\Debug\WinformASM.exe.config
+C:\Users\Acer\source\repos\WinformASM\WinformASM\bin\Debug\WinformASM.exe
+C:\Users\Acer\source\repos\WinformASM\WinformASM\bin\Debug\WinformASM.pdb
+C:\Users\Acer\source\repos\WinformASM\WinformASM\obj\Debug\WinformASM.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\WinformASM\WinformASM\obj\Debug\WinformASM.Form1.resources
+C:\Users\Acer\source\repos\WinformASM\WinformASM\obj\Debug\WinformASM.Form2.resources
+C:\Users\Acer\source\repos\WinformASM\WinformASM\obj\Debug\WinformASM.Properties.Resources.resources
+C:\Users\Acer\source\repos\WinformASM\WinformASM\obj\Debug\WinformASM.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\WinformASM\WinformASM\obj\Debug\WinformASM.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\WinformASM\WinformASM\obj\Debug\WinformASM.exe
+C:\Users\Acer\source\repos\WinformASM\WinformASM\obj\Debug\WinformASM.pdb
